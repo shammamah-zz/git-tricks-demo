@@ -1,3 +1,5 @@
 Hello, world!
+Plotly is awesome!
 vim is the best text editor in the world!
 I have a cat named Tucker.
+Pineapple belongs on pizza.
